@@ -3,6 +3,25 @@ body {
     background-color: darkseagreen;
 }
 
+/* * {
+    outline: 2px solid red;
+} */
+
+.firstpart {
+    text-align: center;
+    margin-top: 20px;
+}
+
 .header {
+    text-align: center;
+    margin: 20px;
+    padding: 15px;
     border: 2px;
+}
+.image {
+    text-align: center;
+}
+
+img {
+    border-radius: 20px;
 }
